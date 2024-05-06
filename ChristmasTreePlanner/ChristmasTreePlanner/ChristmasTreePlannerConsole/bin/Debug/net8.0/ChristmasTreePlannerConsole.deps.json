@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChristmasTreePlannerConsole/1.0.0": {
+        "dependencies": {
+          "ChristmasTreePlanner": "1.0.0"
+        },
+        "runtime": {
+          "ChristmasTreePlannerConsole.dll": {}
+        }
+      },
+      "ChristmasTreePlanner/1.0.0": {
+        "runtime": {
+          "ChristmasTreePlanner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChristmasTreePlannerConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChristmasTreePlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

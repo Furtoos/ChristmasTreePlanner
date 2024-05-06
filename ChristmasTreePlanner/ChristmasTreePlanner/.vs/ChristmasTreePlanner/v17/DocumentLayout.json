@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70449318-98F4-4ABF-AA8B-827CEE84AB10}|ChristmasTreePlannerConsole\\ChristmasTreePlannerConsole.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\christmastreeplanner\\christmastreeplanner\\christmastreeplanner\\christmastreeplannerconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70449318-98F4-4ABF-AA8B-827CEE84AB10}|ChristmasTreePlannerConsole\\ChristmasTreePlannerConsole.csproj|solutionrelative:christmastreeplannerconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5EA0E5-0A9A-4559-8BFF-9DF2A5257626}|ChristmasTreePlanner\\ChristmasTreePlanner.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\christmastreeplanner\\christmastreeplanner\\christmastreeplanner\\christmastreeplanner\\christmastree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5EA0E5-0A9A-4559-8BFF-9DF2A5257626}|ChristmasTreePlanner\\ChristmasTreePlanner.csproj|solutionrelative:christmastreeplanner\\christmastree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD51CF7-DF4C-4DBF-BBAC-98DDCC2C1E7D}|ChristmasTreePlannerTests\\ChristmasTreePlannerTests.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\christmastreeplanner\\christmastreeplanner\\christmastreeplanner\\christmastreeplannertests\\christmastreeplannertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD51CF7-DF4C-4DBF-BBAC-98DDCC2C1E7D}|ChristmasTreePlannerTests\\ChristmasTreePlannerTests.csproj|solutionrelative:christmastreeplannertests\\christmastreeplannertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlannerConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ChristmasTreePlannerConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlannerConsole\\Program.cs",
+              "RelativeToolTip": "ChristmasTreePlannerConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:29:12.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChristmasTreePlannerTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlannerTests\\ChristmasTreePlannerTests.cs",
+              "RelativeDocumentMoniker": "ChristmasTreePlannerTests\\ChristmasTreePlannerTests.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlannerTests\\ChristmasTreePlannerTests.cs",
+              "RelativeToolTip": "ChristmasTreePlannerTests\\ChristmasTreePlannerTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:48:41.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChristmasTree.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTree.cs",
+              "RelativeDocumentMoniker": "ChristmasTreePlanner\\ChristmasTree.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\source\\repos\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTreePlanner\\ChristmasTree.cs",
+              "RelativeToolTip": "ChristmasTreePlanner\\ChristmasTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:33:59.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
